@@ -5,7 +5,8 @@ on:
   # 이벤트를 수동으로 실행
   workflow_dispatch:
   push:
-    branches: -main
+    branches:
+      - main
 
 # 워크플로우가 수행할 작업
 jobs:
