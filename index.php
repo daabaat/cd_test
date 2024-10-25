@@ -1,4 +1,4 @@
 <?php
-hello world!
-zzz
+echo "hello world!";
+
 ?>
